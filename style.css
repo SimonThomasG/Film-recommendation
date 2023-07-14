@@ -1,0 +1,27 @@
+html {
+  font-family: "Josefin Sans", sans-serif;
+  color: beige;
+  background-color: #3998be;
+}
+h1 {
+  border: whitesmoke solid 5px;
+  text-align: center;
+  padding: 20px;
+  background-color: #dd5f24;
+  width: 75%;
+  margin: 0 auto;
+}
+h2 {
+  padding: 2%;
+}
+p{
+    padding: 2%;
+}
+footer {
+  background-color: #dd5f24;
+  width: fit-content;
+  position: fixed;
+  bottom: 0;
+  padding: 2%;
+  border: whitesmoke solid 2px;
+}
